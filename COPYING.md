@@ -1,6 +1,6 @@
 _GNU General Public License_
 ============================
-
+_SPDX identifier: GPL-3.0-only_  
 _Version 3, 29 June 2007_  
 _Copyright © 2007 Free Software Foundation, Inc. <<http://fsf.org>>_
 
